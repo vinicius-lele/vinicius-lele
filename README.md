@@ -1,10 +1,23 @@
+<br clear="both">
+
+<h1 align="center">
+  <img src="/name-logo.png" alt="Vini Lelé" style="width: 28%; height: auto; max-width: 100%; margin-top: 2em;" />
+</h1>
+
+###
+
 <div>
   <a href="https://github.com/vinicius-lele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-lele&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lele&langs_count=6&theme=nightowl"/>
 </div>
+    
+###
+
 <div style="display: inline_block"><br>
-<!-- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <img align="center" alt="HTML"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
