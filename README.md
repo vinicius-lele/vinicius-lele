@@ -11,8 +11,7 @@
 </div>
 
 <h2 align="center">Sobre mim:</h2>
-<p align="justify">Olá, sou o Vini :), apaixonado por tecnologia buscando evoluir a cada dia. Dos meus projetos postados, atualmente o que vejo com maior relevância é o <a href="https://github.com/vinicius-lele/biblioteca">gerenciador de biblioteca</a>, que inclusive <b>encontra-se em produção e validado</b> em uma escola municipal onde trabalho. Projeto este utilizando a linguagem PHP orientado à objetos sem frameworks. Este foi meu primeiro projeto e pretendo trazer outros mais robustos com tecnologias que estou estudando atualmente (Laravel, VueJS).
-Acima tem minhas redes caso tenha se interessado e queira trocar experiências.</p>
+<p align="justify">Olá, sou o Vini :), apaixonado por tecnologia buscando evoluir a cada dia. Atualmente estou trabalhando em um projeto para o gerenciamento interno de uma escola municipal onde trabalho, utilizando Laravel. O GitHub encontra-se um pouco abandonado, mas a busca pelo conhecimento e estudos são constantes, JURO!</p>
 
 <h2 align="center">Stack</h2>
 
