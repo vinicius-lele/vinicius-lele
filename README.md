@@ -21,6 +21,8 @@ Olá, me chamo Vinícius! Sou formado em Análise e Desenvolvimento de Sistemas 
   <img width="12" />
   <img align="center" alt="Laravel"  width="40" src="https://www.svgrepo.com/show/353985/laravel.svg" />
   <img width="12" />
+  <img align="center" alt="Docker"  width="40" src="https://www.svgrepo.com/show/452192/docker.svg" />
+  <img width="12" />
   <img align="center" alt="PHP"  width="40" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" />
   <img width="12" />
   <img align="center" alt="mySQL"  width="40" src="https://www.svgrepo.com/show/373848/mysql.svg" />
