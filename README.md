@@ -11,7 +11,7 @@
 </div>
 
 <h2 align="center">Sobre mim:</h2>
-<p align="justify">Olá, sou o Vini :), apaixonado por tecnologia buscando evoluir a cada dia. Atualmente estou trabalhando em um projeto para o gerenciamento interno de uma escola municipal onde trabalho, utilizando Laravel. O GitHub encontra-se um pouco abandonado, mas a busca pelo conhecimento e estudos são constantes, JURO!</p>
+<p align="justify">Olá, sou o Vini :), apaixonado por tecnologia buscando evoluir a cada dia. Atualmente estou trabalhando em um projeto utilizando Laravel para o gerenciamento interno de uma escola municipal onde trabalho. Embora meu GitHub esteja um pouco parado no momento, dedico-me constantemente à busca por conhecimento e ao aprofundamento nos estudos.</p>
 
 <h2 align="center">Stack</h2>
 
