@@ -17,17 +17,17 @@
 
 <div align="center" style="display: inline_block;">
   <img width="12" />
-  <img align="center" alt="Laravel"  width="40" src="https://www.svgrepo.com/show/473693/laravel.svg" />
+  <img align="center" alt="Laravel"  width="40" src="https://www.svgrepo.com/show/353985/laravel.svg" />
   <img width="12" />
-  <img align="center" alt="PHP"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
+  <img align="center" alt="PHP"  width="40" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" />
   <img width="12" />
-  <img align="center" alt="mySQL"  width="40" src="https://www.svgrepo.com/show/473731/mysql.svg" />
+  <img align="center" alt="mySQL"  width="40" src="https://www.svgrepo.com/show/373848/mysql.svg" />
   <img width="12" />
-  <img align="center" alt="JS"  width="40" src="https://www.svgrepo.com/show/341943/javascript.svg" />
+  <img align="center" alt="JS"  width="40" src="https://www.svgrepo.com/show/353925/javascript.svg" />
   <img width="12" />
-  <img align="center" alt="HTML"  width="40" src="https://www.svgrepo.com/show/473654/html5.svg" />
+  <img align="center" alt="HTML"  width="40" src="https://www.svgrepo.com/show/452228/html-5.svg" />
   <img width="12" />
-  <img align="center" alt="CSS" width="40" src="https://www.svgrepo.com/show/473577/css3.svg" />
+  <img align="center" alt="CSS" width="40" src="https://www.svgrepo.com/show/373535/css.svg" />
   <img width="12" />
 </div>
 
@@ -35,9 +35,9 @@
 
 <div align="center" style="display: inline_block;">
   <img width="12" />
-  <img align="center" alt="Linux"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
+  <img align="center" alt="Linux"  width="40" src="https://www.svgrepo.com/show/448236/linux.svg" />
   <img width="12" />
-  <img align="center" alt="Windows" width="40" src="https://www.svgrepo.com/show/513083/windows-174.svg" />
+  <img align="center" alt="Windows" width="40" src="https://www.svgrepo.com/show/382713/windows-applications.svg" />
   <img width="12" />
 </div>
 
@@ -45,11 +45,11 @@
 
 <div align="center" style="display: inline_block;">
   <img width="12" />
-  <img align="center" alt="Fedora"  width="40" src="https://www.svgrepo.com/show/341815/fedora.svg" />
+  <img align="center" alt="Fedora"  width="40" src="https://www.svgrepo.com/show/354990/fedora.svg" />
   <img width="12" />
-  <img align="center" alt="Mint"  width="40" src="https://www.svgrepo.com/show/306345/linuxmint.svg" />
+  <img align="center" alt="Mint"  width="40" src="https://www.svgrepo.com/show/452055/linux-mint.svg" />
   <img width="12" />
-  <img align="center" alt="Arch"  width="40" src="https://www.svgrepo.com/show/341619/arch-linux.svg" />
+  <img align="center" alt="Arch"  width="40" src="https://www.svgrepo.com/show/354802/archlinux.svg" />
   <img width="12" />
   
 </div>
