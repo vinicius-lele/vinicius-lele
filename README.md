@@ -19,8 +19,6 @@
   <img width="12" />
   <img align="center" alt="Laravel"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img width="12" />
-  <img align="center" alt="Fedora"  width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fedora/fedora-plain.svg" />
-  <img width="12" />
   <img align="center" alt="PHP"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
   <img width="12" />
   <img align="center" alt="mySQL"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
@@ -38,6 +36,8 @@
 <div align="center" style="display: inline_block;">
   <img width="12" />
   <img align="center" alt="Linux"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
+  <img width="12" />
+  <img align="center" alt="Fedora"  width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fedora/fedora-plain.svg" />
   <img width="12" />
   <img align="center" alt="Arch"  width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/archlinux/archlinux-plain.svg" />
   <img width="12" />
