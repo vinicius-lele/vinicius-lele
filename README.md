@@ -11,7 +11,9 @@
 </div>
 
 <h2 align="center">Sobre mim:</h2>
-<p align="justify">Olá, sou o Vini :), apaixonado por tecnologia buscando evoluir a cada dia. Atualmente estou trabalhando em um projeto utilizando Laravel para o gerenciamento interno de uma escola municipal onde trabalho. Embora meu GitHub esteja um pouco parado no momento, dedico-me constantemente à busca por conhecimento e ao aprofundamento nos estudos.</p>
+<p align="justify">
+Olá, me chamo Vinícius! Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente, desenvolvo um sistema de gerenciamento interno para a escola municipal onde trabalho, utilizando Laravel — um projeto pessoal com aplicação prática no dia a dia da instituição. Tenho grande interesse por desenvolvimento web e busco constantemente me aperfeiçoar, com foco em boas práticas, código limpo e novas tecnologias.
+</p>
 
 <h2 align="center">Stack</h2>
 
