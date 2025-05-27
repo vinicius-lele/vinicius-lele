@@ -37,6 +37,9 @@
   <img width="12" />
   <img align="center" alt="Linux"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" />
   <img width="12" />
+  <img align="center" alt="Arch"  width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/archlinux/archlinux-plain.svg" />
+  <img width="12" />
+  
   <img align="center" alt="Windows" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img width="12" />
 </div>
