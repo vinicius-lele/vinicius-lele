@@ -19,6 +19,10 @@ Olá, me chamo Vinícius! Sou formado em Análise e Desenvolvimento de Sistemas 
 
 <div align="center" style="display: inline_block;">
   <img width="12" />
+  <img align="center" alt="ReactNative"  width="40" src="https://www.svgrepo.com/show/452092/react.svg" />
+  <img width="12" />
+  <img align="center" alt="Expo"  width="40" src="https://www.svgrepo.com/show/353723/expo-icon.svg" />
+  <img width="12" />
   <img align="center" alt="Laravel"  width="40" src="https://www.svgrepo.com/show/353985/laravel.svg" />
   <img width="12" />
   <img align="center" alt="Docker"  width="40" src="https://www.svgrepo.com/show/452192/docker.svg" />
